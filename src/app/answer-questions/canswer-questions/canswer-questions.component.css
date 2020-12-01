@@ -1,0 +1,44 @@
+button{    
+    background-color: white;
+    color: #6C7BFF;
+    border: 3px solid #6C7BFF;
+    height: auto;
+    padding: 12px;    
+    opacity: 0.9;
+    border-radius: 50px;
+}
+
+h2{
+    margin-top: 15px;
+}
+
+button:hover{
+    background-color: #6C7BFF;
+    color: white;
+}
+
+.question-and-answers{
+    margin-top: 20px;
+}
+
+.answers{
+    border: 1px solid #6C7BFF;
+    border-radius: 25px;
+    background-color: #6C7BFF;
+    color: white;
+    padding: 12px;    
+}
+
+.answers:hover{
+    background-color: #4658FF;
+}
+
+#score{
+    font-weight: bold;
+    font-size: 19px;
+}
+
+#round{
+    color: #6C7BFF;
+}
+

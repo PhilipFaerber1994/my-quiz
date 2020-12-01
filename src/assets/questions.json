@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "question": "Wer führte Regie in der Dark-Knight Trilogie?",
+        "answers":{
+            "A": "Peter Jackson",
+            "B": "Steven Spielberg",
+            "C": "Ron Howard",
+            "D": "Christopher Nolan"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 2,
+        "question": "Wann fiel die Berliner Mauer?",
+        "answers":{
+            "A": "09. November 1989",
+            "B": "03. Oktober 1990",
+            "C": "18. September 1989",
+            "D": "17. Oktober 1990"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 3,
+        "question": "Wer ist der richtige für den Job?",
+        "answers":{
+            "A": "Spongebob Schwammkopf",
+            "B": "Philip Färber",
+            "C": "Spiderman",
+            "D": "Obi Wan Kenobi"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 4,
+        "question": "Wer moderiert den Podcast 'Fest und Flauschig'?",
+        "answers":{
+            "A": "Felix Lobrecht und Tommi Schmitt",
+            "B": "Jan Böhmerman und Olli Schulz",
+            "C": "Oliver Welke und Max Giermann",
+            "D": "Helge Schneider und Harald Schmidt"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 5,
+        "question": "Welches Unternehmen entwickelte das Web-Framework 'Angular'?",
+        "answers":{
+            "A": "Google",
+            "B": "Facebook",
+            "C": "Microsoft",
+            "D": "Twitter"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 6,
+        "question": "Was ist das Ergebnis der folgenden Rechnung? 4 x 8 - 7",
+        "answers":{
+            "A": "4",
+            "B": "-4",
+            "C": "25",
+            "D": "-25"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 7,
+        "question": "Welches Land grenzt nicht an Deutschland?",
+        "answers":{
+            "A": "Finnland",
+            "B": "Polen",
+            "C": "Tschechien",
+            "D": "Dänemark"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 8,
+        "question": "Wann erschien das erste iPad?",
+        "answers":{
+            "A": "2008",
+            "B": "2007",
+            "C": "2009",
+            "D": "2006"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 9,
+        "question": "Welches Start-Up wird von dem Konzern Doktor Oettger übernommen?",
+        "answers":{
+            "A": "Flaschenpost",
+            "B": "myMuesli",
+            "C": "Ankerkraut",
+            "D": "Snocks"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 10,
+        "question": "Welche Programmiersprache gibt es nicht?",
+        "answers":{
+            "A": "Stay",
+            "B": "Go",
+            "C": "Kotlin",
+            "D": "TypeScript"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 11,
+        "question": "Wie heißt der Sänger von Slipknot?",
+        "answers":{
+            "A": "James Hetfield",
+            "B": "Bruce Dickinson",
+            "C": "Tom Araya",
+            "D": "Corey Taylor"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 12,
+        "question": "Was befindet sich auf einer Pizza Tonno?",
+        "answers":{
+            "A": "Sardellen",
+            "B": "Thunfisch",
+            "C": "Lachs",
+            "D": "Garnelen"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 13,
+        "question": "Wie heißt der aktuelle Papst?",
+        "answers":{
+            "A": "Papst Benedict XVI",
+            "B": "Papst Franziskus",
+            "C": "Papst John Paul I",
+            "D": "Papst John Paul II"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 14,
+        "question": "Wo findet Rock im Park statt?",
+        "answers":{
+            "A": "München",
+            "B": "Augsburg",
+            "C": "Nürnberg",
+            "D": "Konstanz"
+        },
+        "correctAnswer": "B"
+    }
+]

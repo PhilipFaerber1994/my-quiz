@@ -1,0 +1,42 @@
+<h2>Viel Spaß in <span id="round"> Runde {{ round }} </span> </h2>
+
+<div class="container question-and-answers">
+    <p>Frage: {{ questions[idCounter]["question"] | json }}</p><br>
+
+    <p class="answers">A: 
+      <input name="answerRadioButton" value="A" type="radio" class="answers-radio-button" (change)="radioChangeHandler($event)"> 
+        {{ questions[idCounter]["answers"]["A"] }}
+    </p>
+    <p class="answers">B: 
+      <input name="answerRadioButton" value="B" type="radio" class="answers-radio-button" (change)="radioChangeHandler($event)">
+        {{ questions[idCounter]["answers"]["B"] }}
+    </p>
+    <p class="answers">C: 
+      <input name="answerRadioButton" value="C" type="radio" class="answers-radio-button" (change)="radioChangeHandler($event)" >
+        {{ questions[idCounter]["answers"]["C"] }}
+    </p>
+    <p class="answers">D: 
+      <input name="answerRadioButton" value="D" type="radio" class="answers-radio-button" (change)="radioChangeHandler($event)">
+        {{ questions[idCounter]["answers"]["D"] }}
+    </p>
+
+    <br>   
+    
+        <div class="row">
+          <div class="col-sm">
+            <button (click)="checkAnswer()">einloggen</button>
+          </div>
+          <div class="col-sm">
+            <span id="score">Score: {{ score }} </span>
+          </div>
+          <div class="col-sm">
+            <button (click)="nextQuestion()" 
+            *ngIf="nextQuestionButton">
+              nächste Frage</button>
+
+          </div>
+        </div>
+     
+
+    <br> 
+</div>
